@@ -1,0 +1,1 @@
+# stacks-agent-registry
